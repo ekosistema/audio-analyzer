@@ -1,0 +1,4 @@
+PyQt6
+pydub
+pyloudnorm
+numpy
